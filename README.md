@@ -51,8 +51,16 @@ Follow these steps for completing your project.
 **Step 1 - Planning 📝**
 
 - Take a good amount of time to familiarize yourself with the project structure. Figure out what data you have and where it's being used (Pen and paper or a whiteboard will be your best friend here!)
+state data. Car price, name, image, features.
+Additional features
 - Plan out your state management structure as mentioned above. The only requirment is that you _must_ use Redux
 - Write out the steps you think you'll need to complete this project. It seems silly, but doing this with every project will help you grow into a better developer a lot faster.
+
+import createStore and Provider
+Create Reducer passing in inital state and action
+return default state
+action type add feature
+
 - Take note of the few comments throughout the app. They are there as little guides to nudge you in the right direction. You're welcome 😉
 
 **Step 2 - And... Action! 🎬**
